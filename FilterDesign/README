@@ -1,0 +1,14 @@
+ReadData.m
+Function to read data from user defined txt
+
+
+==================================================
+Old filter method for lidar data, include files:
+filter.m/Butterworth_filter.m/BwFilter.m/Gaussianfilter.m
+
+
+==================================================
+
+filter_new.m
+A revised method for filter design
+3 functions are used in this script: buttord, butter, filter

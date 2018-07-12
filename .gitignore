@@ -1,0 +1,15 @@
+
+*~
+
+### Folders
+Data
+slprj
+*_ert_rtw
+
+
+### Matlab Temporary Files
+*.asv
+*.mexw64
+*.prj
+*.tgz
+build_ros_model.sh

@@ -1,0 +1,10 @@
+This package is used to design a StateMachine for laser based navigation
+
+CoreStateMachine
+This file is used for whole system.
+
+DetectStateMachine
+This file is 
+
+NavStateMachine
+This file 
